@@ -7,8 +7,8 @@ Wepeak Mobile is a Point-of-Sale app that manage data with API from WepeakLarave
 
 
 # To Do List
-- [] Finishing Dashboard
-- [] CRUD Master Data
+- [x] Finishing Dashboard
+- [ ] CRUD Master Data
 
 
 # Dev Team
