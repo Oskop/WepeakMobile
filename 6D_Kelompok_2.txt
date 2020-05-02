@@ -1,0 +1,19 @@
+Kelas: 6D
+Ketua 
+17090092 Mokhamad Wijaya
+
+Anggota
+- 17090024 Dimas Rayandra
+- 17090127 Mohammad Juandika Rachmansyah
+- 17090147 Reza Aditya Sam Marhaban
+- 17090105 Septiyan Adi Nugroho
+
+API
+
+* http://calm-temple-58425.herokuapp.com/api/dashboard
+	header[Accept]: application/json
+	body[form]: {username, password}
+
+* http://calm-temple-58425.herokuapp.com/api/login
+	header[Accept]: application/json
+	header[Authorization]: Bearer [Your Token]
